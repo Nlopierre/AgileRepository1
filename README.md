@@ -8,8 +8,20 @@ My personal favorite, aside from the probably attractive 20% Time technique, is 
 
 ### This is assignment was done by Nicolas Lopierre Aguirre
 
-
 ## Comment from Eric Lin
 The article does expose readers to some interesting techniques to prevent engineering burn-out; while I doubt the effectiveness of some of the methods described, article author Adam Conrad does advise readers that this is not an easy change.
 
 It really makes me question sometimes that whether I am productive, or simply making myself look busy most of the time.
+
+
+## Comment on article by Ignacio Carrillo-Batalla
+
+The article provides good insight into what 
+motivates developers and what can be
+done by managers to motivate them. I found it
+interesting that the author gives good 
+suggestions for motivating developers, while 
+accepting inevitable truths, such as that 
+all jobs cannot provide motivation through 
+the promise of impact and that most 
+developers change jobs frequently.
